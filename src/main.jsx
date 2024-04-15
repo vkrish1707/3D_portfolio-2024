@@ -10,8 +10,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
 )
 
 
-import React, { useState } from 'react';
-import './BookSearch.css'; // Ensure you have a corresponding CSS file for styling
+import  { useState } from 'react';
 
 const BookSearch = ({ books }) => {
   const [filters, setFilters] = useState({

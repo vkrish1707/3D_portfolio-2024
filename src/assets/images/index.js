@@ -1,15 +1,17 @@
 import hero from './hero.jpg'
-import meta from './meta.png'
-import shopify from './shopify.png'
-import starbucks from './starbucks.png'
-import tesla from './tesla.png'
 import logo from './logo.svg'
+import Capgemini from './Capgemini.png'
+import wipro from './wipro.jpeg'
+import Hexaware from './Hexaware.png'
+import accenture from './accenture.png'
+import vzen from './vzen.jpeg'
 
 export {
     hero,
-    meta,
-    shopify,
-    starbucks,
-    tesla,
-    logo
+    logo,
+    Capgemini,
+    wipro,
+    Hexaware,
+    accenture,
+    vzen
 }
