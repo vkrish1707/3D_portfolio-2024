@@ -25,7 +25,7 @@ To navigate through the 3D portfolio, use the mouse to rotate the view and click
 
 ## Author
 
-Vamsi krishna
+Bhanu Satyani
 
 If you found this project useful, please consider giving it a ⭐️!
 
